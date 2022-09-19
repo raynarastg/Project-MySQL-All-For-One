@@ -1,1 +1,3 @@
-SELECT notes FROM purchase_orders WHERE notes = 'Purchase generated based on Order' >= 30 AND <= 39;
+SELECT notes FROM purchase_orders WHERE notes BETWEEN 'Purchase generated based on Order #30' AND 'Purchase generated based on Order #39';
+
+-- Daniel Rubens me auxiliou nesse quesito
