@@ -1,0 +1,1 @@
+SELECT id, supplier_id FROM purchase_orders IN(1, 3, 5, 7);
