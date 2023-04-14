@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# MySQL - All For One
+
+<details>
+  <summary><strong>💫 Habilidades</strong></summary><br />
+
+Neste projeto foi aplicado os seguintes conceitos:
+
+- Desafios de SELECT e criação de dados;
+- Desafios sobre filtragem de dados;
+- Desafios de manipulação de tabelas.
+
+</details>
+
+## Clone o projeto
+
+- Use o comando: `git clone git@github.com:raynarastg/Project-MySQL-All-For-One.git`.
+- Entre na pasta do repositório que você acabou de clonar:
+  - `cd Project-MySQL-All-For-One`
