@@ -1,6 +1,13 @@
 # MySQL - All For One
 
 <details>
+  <summary><strong>👨‍💻 O que foi desenvolvido nesse projeto</strong></summary><br />
+
+Esse projeto tem como objetivo colocar em prática os conceitos SQL.
+
+</details>
+
+<details>
   <summary><strong>💫 Habilidades</strong></summary><br />
 
 Neste projeto foi aplicado os seguintes conceitos:
